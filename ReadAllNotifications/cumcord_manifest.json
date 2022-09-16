@@ -1,0 +1,7 @@
+{
+  "name": "ReadAllNotificationsButton",
+  "description": "Adds a Clear Button to the Server List and the Mentions Popout",
+  "author": "DevilBro",
+  "file": "js/ReadAllNotificationsButton.plugin.js",
+  "license": "MIT"
+}
